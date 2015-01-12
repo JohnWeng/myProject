@@ -5,23 +5,8 @@ public class Class1 {
 	public void function(){
 		System.out.println("update");
 		System.out.println("say someone made changed and committed");	
-		System.out.println("update2");
-		System.out.println("update3");
-		System.out.println("update4");
-		System.out.println("update5");
-		System.out.println("update6");
-		System.out.println("update7");
-		System.out.println("update8");
-		System.out.println("update9");
-		System.out.println("update10");
-		System.out.println("update11");
-		System.out.println("update12");
-		System.out.println("update13");
-		System.out.println("update14");
-		System.out.println("update15");
-		System.out.println("update16");
-		System.out.println("update17");
-		System.out.println("update18");
+		
+		System.out.println("update19");
 		
 	}
 	
