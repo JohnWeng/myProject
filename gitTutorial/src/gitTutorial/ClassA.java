@@ -6,5 +6,5 @@ public class ClassA {
 	
 	public int b;
 	
-	
+	System.out.println("second branch update 1");
 }
