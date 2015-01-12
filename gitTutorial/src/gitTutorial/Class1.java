@@ -10,6 +10,8 @@ public class Class1 {
 		System.out.println("update20");
 		System.out.println("update21");
 		
+		
+		
 	}
 	
 }
