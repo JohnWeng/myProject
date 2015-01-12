@@ -7,6 +7,8 @@ public class Class1 {
 		System.out.println("say someone made changed and committed");	
 		System.out.println("update2");
 		System.out.println("update3");
+		System.out.println("update4");
+		
 	}
 	
 }
