@@ -9,12 +9,8 @@ public class Class1 {
 		System.out.println("update19");
 		System.out.println("update20");
 		System.out.println("update21");
-		System.out.println("update22");
-
-		System.out.println("hotfix:update22");
-
-		System.out.println("issu53:1");
-
+		
+		System.out.println("hotfix2");
 		
 	}
 	
